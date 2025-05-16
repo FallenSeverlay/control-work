@@ -1,22 +1,22 @@
 export const habits = [
 	{
 		title: "Habit1",
-		status: "complete"
+		status: "completed"
 	},
 	{
 		title: "Habit2",
-		status: "complete"
+		status: "completed"
 	},
     {
 		title: "Habit3",
-		status: "complete"
+		status: "completed"
 	},
     {
 		title: "Habit4",
-		status: "complete"
+		status: "completed"
 	},
     {
 		title: "Habit5",
-		status: "complete"
+		status: "completed"
 	}
 ];
